@@ -1,0 +1,9 @@
+python 3	: (https://www.python.org/downloads/)
+virtual wraper	: (https://pypi.python.org/pypi/virtualenvwrapper-win)
+django		: (pip install django)
+
+
+
+INICIAR PROYECTO CON DJANGO
+
+django-admin startproyect ###nombreproyecto#####
